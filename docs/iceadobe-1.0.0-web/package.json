@@ -1,0 +1,21 @@
+{
+  "name": "ice-adobe-client",
+  "version": "1.0.0",
+  "description": "A custom Ruffle Flash player client themed as IceAdobe",
+  "main": "client.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@ruffle-rs/ruffle": "latest"
+  },
+  "keywords": [
+    "ruffle",
+    "flash",
+    "emulator",
+    "wasm",
+    "iceadobe"
+  ],
+  "author": "IceAdobe Team",
+  "license": "MIT"
+}
